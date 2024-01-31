@@ -20,7 +20,7 @@ var resumeData = {
   };
 
   //console.log(resumeData);
-  
+  //
 //   // Using "for loop"
 //   console.log("Using for loop:");
      for(var i = 0; i< resumeData.length; i++){
